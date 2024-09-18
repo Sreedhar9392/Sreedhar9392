@@ -15,9 +15,9 @@
 - 📄 Know about my experiences:https://drive.google.com/file/d/1M4nFveRTEzUhdyq2hwuv1gis1P5v7QFP/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhu yeddula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhu yeddula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sreedhar-arikera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sreedhar Reddy" height="30" width="40" /></a>
 <a href="https://instagram.com/madhu_mohanreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhu_mohanreddy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yeddulamadhu6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yeddulamadhu6" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sreedhar09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sreedhar09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
