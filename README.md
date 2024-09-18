@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Machine Learning**
 
-- 📫 How to reach me **yeddulamadhu6@gmail.com**
+- 📫 How to reach me **arikerasreedharreddy@gmail.com**
 
 - 📄 Know about my experiences:https://drive.google.com/file/d/1M4nFveRTEzUhdyq2hwuv1gis1P5v7QFP/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
