@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Madhu Mohan Reddy</h1>
+<h1 align="center">Hi 👋, I'm Arikera Sreedhar Reddy</h1>
 
 <h3 align="center">"Driven by a deep passion for learning data structures and algorithms, I am constantly challenged and excited by solving complex problems and refining my problem-solving skills."</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1728518400&v=beta&t=db71HsVYlSLJrqCAc0P9mkD1UJfW-LMFzTQsy5p99i8">
